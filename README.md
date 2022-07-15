@@ -4,3 +4,6 @@ Após realizar a coleta, foi feito um tratamento e analise destes dados.
 
 Como parte do trabalho, foi realiza um vídeo e disponibilizado no youtube para explicar os comandos utilizados:
 https://youtu.be/Ft4lYlJRVHs
+
+
+*****RODAR ESTE CÓDIGO NO TURNO VESPERTINO OU NOTURNO, POIS O SITE POSSUI UMA CONFIGURAÇÃO DIFERENTE NO TURNO MATUTINO***** 
